@@ -22,7 +22,7 @@ function LandingPage() {
       <Card>
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
-            <h2>Allowlist Example</h2>
+            <h2>Allowlist </h2>
             <p>
               Shows how a creator can define an allowlist based access. The creator first creates an
               allowlist and can add or remove users in the list. The creator can then associate
@@ -38,7 +38,7 @@ function LandingPage() {
       <Card>
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
-            <h2>Subscription Example</h2>
+            <h2>Subscription</h2>
             <p>
               Shows how a creator can define a subscription based access to its published files. The
               creator defines subcription fee and how long a subscription is valid for. The creator
